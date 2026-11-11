@@ -633,6 +633,7 @@ fn main() {
         project_panel::init(cx);
         outline_panel::init(cx);
         agent_chat::init(Some(agent_shell_env_rx), cx);
+        oj_ui::init(cx);
         tasks_ui::init(cx);
         snippets_ui::init(cx);
         search::init(cx);

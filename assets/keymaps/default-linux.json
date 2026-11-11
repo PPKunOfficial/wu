@@ -423,6 +423,7 @@
       // "alt-ctrl-o": ["projects::OpenRecent", { "create_new_window": true }],
       "alt-ctrl-o": "projects::OpenRecent",
       "ctrl-r": "projects::OpenRecent",
+      "ctrl-alt-j": "oj_ui::ToggleOjPanel",
       "alt-shift-open": ["projects::OpenRemote", { "from_existing_connection": false }],
       // Change to open path modal for existing remote connection by setting the parameter
       // "alt-ctrl-shift-o": ["projects::OpenRemote", { "from_existing_connection": true }],

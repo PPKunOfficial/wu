@@ -94,6 +94,8 @@ members = [
     "crates/net",
     "crates/node_runtime",
     "crates/notifications",
+    "crates/oj_sdk",
+    "crates/oj_ui",
     "crates/onboarding",
     "crates/open_path_prompt",
     "crates/outline",
@@ -288,6 +290,8 @@ multi_buffer = { path = "crates/multi_buffer" }
 net = { path = "crates/net" }
 node_runtime = { path = "crates/node_runtime" }
 notifications = { path = "crates/notifications" }
+oj_sdk = { path = "crates/oj_sdk" }
+oj_ui = { path = "crates/oj_ui" }
 onboarding = { path = "crates/onboarding" }
 open_path_prompt = { path = "crates/open_path_prompt" }
 outline = { path = "crates/outline" }
